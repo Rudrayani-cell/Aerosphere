@@ -442,24 +442,13 @@ Place the device in clean air for 2 minutes, then click **Calibrate Base** on th
 | Flash wear | Logging every 60s = ~1440 writes/day; LittleFS mitigates but flash has finite P/E cycles |
 
 ---
-## 👥 Collaborators
+## 👩‍💻 Author
 
 <p align="center">
-  <a href="https://github.com/shrutmpatil"><img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Shrut Patil GitHub"></a>
-  <a href="https://github.com/siddhilad920"><img src="https://img.shields.io/badge/Siddhi-Lad-lightgrey?style=for-the-badge&logo=github" alt="Siddhi Lad GitHub"></a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shrutmpatil/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
-  <a href="https://www.linkedin.com/in/lad-siddhi/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
-  </a>
+  <a href="https://github.com/Rudrayani-cell"><img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Shrut Patil GitHub"></a>
 </p>
 
-<div align="center">
+**Aerosphere** — *Breathe with data* 🌿
 
-**AeroNode** — *Breathe with data* 🌿
-
-Made with ❤️ by Shrut and Siddhi
-
+Made with ❤️ by Rudrayani Adichwal
 </div>
