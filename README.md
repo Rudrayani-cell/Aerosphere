@@ -442,12 +442,6 @@ Place the device in clean air for 2 minutes, then click **Calibrate Base** on th
 | Flash wear | Logging every 60s = ~1440 writes/day; LittleFS mitigates but flash has finite P/E cycles |
 
 ---
-## 👩‍💻 Author
-
-<p align="center">
-  <a href="https://github.com/Rudrayani-cell"><img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Rudrayani Adichwal GitHub"></a>
-</p>
-
 **Aerosphere** — *Breathe with data* 🌿
 
 Made with ❤️ by Rudrayani Adichwal
